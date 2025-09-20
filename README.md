@@ -1,3 +1,16 @@
+# Integrantes : 
+
+- Aline Fernandes Zeppelini - RM97966
+
+- Camilly Breitbach Ishida - RM551474
+
+- Julia Leite Galvão - RM550201
+
+- Jessica Costacurta - RM99068
+ 
+
+
+
 # Sistema de Agendamento de Consultas Médicas
 
 [![React Native](https://img.shields.io/badge/React%20Native-0.76.7-blue.svg)](https://reactnative.dev/)
@@ -341,7 +354,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## Autores
 
-- **Professor Hete Caetano** - [hete.caetano@fiap.com.br](mailto:hete.caetano@fiap.com.br
+- **Professor Hete Caetano** - [hete.caetano@fiap.com.br]
 
 ---
 

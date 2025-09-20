@@ -9,13 +9,13 @@ import LoginScreen from '../screens/LoginScreen';
 import RegisterScreen from '../screens/RegisterScreen';
 import HomeScreen from '../screens/HomeScreen';
 import CreateAppointmentScreen from '../screens/CreateAppointmentScreen/index';
-import ProfileScreen from '../screens/ProfileScreen/ProfileScreen';
-import EditProfileScreen from '../screens/EditProfileScreen/EditProfileScreen';
+import ProfileScreen from '../screens/ProfileScreen';
+import EditProfileScreen from '../screens/EditProfileScreen';
 import AdminDashboardScreen from '../screens/AdminDashboardScreen';
 import DoctorDashboardScreen from '../screens/DoctorDashboardScreen';
 import PatientDashboardScreen from '../screens/PatientDashboardScreen';
 import NotificationsScreen from '../screens/NotificationsScreen';
-import SettingsScreen from '../screens/SettingsScreen/SettingsScreen';
+import SettingsScreen from '../screens/SettingsScreen';
 
 const Stack = createNativeStackNavigator<RootStackParamList>();
 
